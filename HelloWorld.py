@@ -1,3 +1,2 @@
-HelloWorld.py
-
-print("ET0735 - DevOps")
+HelloWorld
+print ("ET0735 - DevOps")
